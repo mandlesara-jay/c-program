@@ -4,6 +4,7 @@ int main()
     int arr[10],i,j,n,temp;
     printf("Enter how many elements you want:- ");
     scanf("%d",&n);
+    //this loop is for what?
     for(i=0;i<n;i++)
     {
         printf("\nEnter arr[%d]:- ",i);
